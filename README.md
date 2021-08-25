@@ -23,7 +23,7 @@ Start with a minimal set of components to sketch concepts and iterate fast your 
 * :globe_with_meridians: Internet connection
 
 ```sh
-git clone https://github.com/meetalva/alva.git
+git clone https://github.com/Gulbrandr/alva.git
 cd alva
 yarn
 yarn tsc -b -w
